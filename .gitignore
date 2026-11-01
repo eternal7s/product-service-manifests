@@ -1,0 +1,14 @@
+# 로컬 전용 시크릿 (실제 토큰은 커밋 금지)
+*-secret.local.yaml
+*.local.yaml
+.env
+.env.*
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# 기타
+*.log
+.DS_Store
